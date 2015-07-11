@@ -3,7 +3,7 @@ languageCode: "ja"
 title: "シババルーン"
 
 Params:
-  Author: "Kazunari NAKATA"
+  Author: "バルーンボーイ"
   Birth: "Dec. 26, 1990"
   DateForm: "Mon, Jan 2, 2006"
   GoogleAnalyticsUserID: "62012753"
@@ -11,13 +11,23 @@ Params:
   Twitter: "@besutome"
   Github: "besutome"
   ShowRelatedPost: True
-  Disqus: "Your Disqus."
+  Disqus: "besutome"
   SyntaxHighlightTheme: "solarized_dark.min.css"
+  description: "シババルーン"
+  languageCode: "ja"
+  countryCode: "ja"
 
 Indexes:
   tag: "tags"
 
 permalinks:
-  post: /blog/:year/:month/:day/:title/
+    post: /blog/:section/:filename/
+
+# params.Twitter:
+#   Account: "@jigyakkuma_"
+#   Url: "https://twitter.com/jigyakkuma_"
+# params.Github:
+#   Url: "https://github.com/jigyakkuma"
+#   UserName: "jigyakkuma"
 
 MetadataFormat: "yaml"

@@ -1,9 +1,10 @@
-+++
-date = "2015-07-09T16:12:23+09:00"
-title = "gitで速攻＆雑にコミットそれとかっこいいgit log"
-eyecatch: "2015/07/Git-Icon-1788C1-300x3001.png"
+---
+date: "2015-07-09T16:12:23+09:00"
+title: "git-hate-commit"
+eyecatch: "/2015/07/Git-Icon-1788C1-300x3001.png"
 tags: ["git", "programming"]
-+++
+---
+
 
 gitで速攻＆雑にコミットそれとかっこいいgit log
 ===============================================
@@ -26,6 +27,7 @@ n  = now --all --stat
 ```
 
 aliasの文字はご自由に。 これでaddからコミットまで自動でやってくれます。 
+
 
 
 ### tig 
@@ -65,5 +67,9 @@ logs = log --all --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s
 * 85530f8 - (origin/master) [from now] 2015/07/09 03:17:49 (5 hours ago) <名前>
 ```
 みたいな感じに出力されます。 tree表示されるので、ブランチごとの分岐もわかりやすいです。
+
+
+
+
 
 
