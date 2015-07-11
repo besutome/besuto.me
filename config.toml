@@ -1,0 +1,23 @@
+baseurl: "http://besuto.me/"
+languageCode: "ja"
+title: "シババルーン"
+
+Params:
+  Author: "Kazunari NAKATA"
+  Birth: "Dec. 26, 1990"
+  DateForm: "Mon, Jan 2, 2006"
+  GoogleAnalyticsUserID: "62012753"
+  GravatarHash: "d9406594572d065298a1a4d1283f6d98"
+  Twitter: "@besutome"
+  Github: "besutome"
+  ShowRelatedPost: True
+  Disqus: "Your Disqus."
+  SyntaxHighlightTheme: "solarized_dark.min.css"
+
+Indexes:
+  tag: "tags"
+
+permalinks:
+  post: /blog/:year/:month/:day/:title/
+
+MetadataFormat: "yaml"
