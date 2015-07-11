@@ -44,6 +44,8 @@
             
             
             
+            
+            
         </div>
     </div>
 
@@ -55,16 +57,16 @@
     <article class="post">
     <div class="eyecatch">
         
-        <a href="http://localhost:1313/blog/programming/git-hate-commit/"><img src="http://localhost:1313//images//2015/07/Git-Icon-1788C1-300x3001.png" alt="git-hate-commit"></a>
+        <a href="http://localhost:1313/blog/post/post/git-hate-commit/"><img src="http://localhost:1313//images//2015/07/Git-Icon-1788C1-300x3001.png" alt="git-hate-commit"></a>
         
     </div>
     <div class="data">
         <span class="post-date">Thu, Jul 9, 2015</span>
-        <h1 class="post-title"><a href="http://localhost:1313/blog/programming/git-hate-commit/">git-hate-commit</a></h1>
+        <h1 class="post-title"><a href="http://localhost:1313/blog/post/post/git-hate-commit/">git-hate-commit</a></h1>
         <div class="summary">gitで速攻＆雑にコミットそれとかっこいいgit log git-now git-nowはコミットメッセージを勝手に現在時刻にして、コミットしてくれるコマンド。 一時コミットするやつですね。 とりあえずコミットするのは賛否両論ありますが、コミットしないリスクを考えると雑にでもコミットしたほうが良さげ。 $ brew install git-now Macならこれで入ります。設定は~/.gitconfigにこんな感じで。 n = now --all --stat aliasの文字はご自由に。 これでaddからコミットまで自動でやってくれます。 tig tigから git rebase -i したらいろいろ捗ったを参考にtigからrebaseをできるように。 tigはターミナル上でコミットツリーをいいかんじにしてくれる。 $ brew install tig tigもこれでOK。 そして~/.tigrcに以下を記述します。 bind main C !git rebase -i %(commit) bind diff C !git rebase -i %(commit) こちらも文字はご自由に。 自分はcommitのCにしてます。 これでtig上のわかりやすいコミットツリーでrebaseできます。 ちなみに選択したコミットより最新のものは全部編集できます。 git logs gitのデフォルトのlogって見にくいので、いろいろ試した結果これが一番かっこよくなります。 これも〜/.gitconfigに記述。 aliasもなんでもいいですが、logとかだと競合するので別のものがオススメ。 logs = log --all --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)&lt;%an&gt;%Creset' --abbrev-commit --date=relative こうすると * 2fe4f9b</div>
     </div>
     <footer class="readon">
-        <a href="http://localhost:1313/blog/programming/git-hate-commit/">
+        <a href="http://localhost:1313/blog/post/post/git-hate-commit/">
             <i class="fa fa-chevron-down"></i>
         </a>
     </footer>

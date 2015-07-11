@@ -21,13 +21,6 @@ Indexes:
   tag: "tags"
 
 permalinks:
-    post: /blog/:section/:filename/
-
-# params.Twitter:
-#   Account: "@jigyakkuma_"
-#   Url: "https://twitter.com/jigyakkuma_"
-# params.Github:
-#   Url: "https://github.com/jigyakkuma"
-#   UserName: "jigyakkuma"
+    post: /blog/:section/:section/:filename/
 
 MetadataFormat: "yaml"
