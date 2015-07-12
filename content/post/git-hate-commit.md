@@ -1,7 +1,7 @@
 ---
 date: "2015-07-09T16:12:23+09:00"
 title: "git-hate-commit"
-eyecatch: "/2015/07/Git-Icon-1788C1-300x3001.png"
+eyecatch: "git-logo.png"
 tags: ["git", "programming"]
 comments: true
 ---
@@ -32,6 +32,8 @@ aliasの文字はご自由に。 これでaddからコミットまで自動で�
 
 
 
+
+
 ### tig 
 
 [tigから git rebase -i したらいろいろ捗った](http://sue445.hatenablog.com/entry/2014/08/07/015811 'tigから git rebase -i したらいろいろ捗った')を参考に`tig`からrebaseをできるように。  
@@ -53,6 +55,8 @@ bind diff C !git rebase -i %(commit)
 ちなみに選択したコミットより最新のものは全部編集できます。 
 
 
+
+
 ### git logs 
 
 gitのデフォルトのlogって見にくいので、いろいろ試した結果これが一番かっこよくなります。   
@@ -69,6 +73,9 @@ logs = log --all --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s
 * 85530f8 - (origin/master) [from now] 2015/07/09 03:17:49 (5 hours ago) <名前>
 ```
 みたいな感じに出力されます。 tree表示されるので、ブランチごとの分岐もわかりやすいです。
+
+
+
 
 
 

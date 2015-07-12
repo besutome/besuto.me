@@ -2,7 +2,7 @@
 date: 2015-07-12T22:34:56+09:00
 draft: false
 title: alfred
-eyecatch: "/2015/07/alfred-logo.png"
+eyecatch: "alfred-logo.png"
 tags: ["git", "programming"]
 ---
 
@@ -23,7 +23,7 @@ OSX YosemiteだとMac標準のSpotlightでも似たようなことができま�
 
 有料版alfredでできることの代表例はこちら。
 
-![alfred-translate](/2015/07/alfred-translate.png 'alfred-translate')
+![alfred-translate](/images/alfred-translate.png 'alfred-translate')
 
 そう、翻訳です！ エンジニアは英語との戦いと言っても過言ではないので、即座に日本語訳できるのは便利。
 
@@ -31,7 +31,7 @@ OSX YosemiteだとMac標準のSpotlightでも似たようなことができま�
 
 そうすると、翻訳されたものが表示されるので、enterを押すとクリップボードにコピーされます。 この機能はライセンスを買うと使えるworkflowを使ってます。 こんなやつ。
 
-![alfred-workflow](/2015/07/alfred-workflow.png 'alfred-workflow')
+![alfred-workflow](/images/alfred-workflow.png 'alfred-workflow')
 
 一応ドラッグしても作れますが、作りにくいのと誰かが作ったものが結構上がっているので探してみてください。 自分がよく使うものだと、google translateやAmazon Suggest（amazon検索できるやつです）ですね。
 
@@ -48,4 +48,7 @@ OSX YosemiteだとMac標準のSpotlightでも似たようなことができま�
  [2]: http://buy.alfredapp.com/ "powerpack"
  [3]: https://kapeli.com/dash "dash"
  [4]: http://sites.fastspring.com/kapeli/instant/dash "dash有料版"
+
+
+
 
