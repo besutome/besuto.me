@@ -21,6 +21,6 @@ Indexes:
   tag: "tags"
 
 permalinks:
-    post: /blog/:section/:section/:filename/
+    post: /blog/:section/:filename/
 
 MetadataFormat: "yaml"
