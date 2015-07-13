@@ -4,11 +4,10 @@ date: 2015-07-13T23:19:40+09:00
 draft: false
 eyecatch: yahoo-realtime.png
 tags: ["seo", "tools"]
-title: seo tools
+title: 手軽に対応できる！SEOに使うお手軽ツール
 ---
 
-手軽に対応できる！SEOに使うお手軽ツール
-========
+
 
 みなさんはSEO頑張ってますか？  
 SEOって地道で面倒くさいので、ツールを使って楽していきたいんですが、いかんせん数が多すぎるし、多機能すぎて面倒くさいです。  
@@ -87,3 +86,4 @@ https://developers.google.com/speed/pagespeed/insights/?hl=ja
 ------
 
 手軽ツールを使って、気負わずにSEO対策していきましょう！
+

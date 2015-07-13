@@ -1,15 +1,11 @@
 ---
 date: "2015-07-09T16:12:23+09:00"
-title: "git-hate-commit"
+title: gitで速攻＆雑にコミットそれとかっこいいgit log
 eyecatch: "git-logo.png"
 tags: ["git", "programming", "tools"]
 comments: true
 ---
 
-
-
-gitで速攻＆雑にコミットそれとかっこいいgit log
-===============================================
 
 ### git-now
 
@@ -73,6 +69,7 @@ logs = log --all --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s
 * 85530f8 - (origin/master) [from now] 2015/07/09 03:17:49 (5 hours ago) <名前>
 ```
 みたいな感じに出力されます。 tree表示されるので、ブランチごとの分岐もわかりやすいです。
+
 
 
 

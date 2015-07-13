@@ -1,7 +1,7 @@
 ---
 date: 2015-07-12T23:34:56+09:00
 draft: false
-title: alfred
+title: マウスを使わない環境構築 Alfred編
 eyecatch: "alfred-logo.png"
 tags: ["alfred", "tools"]
 ---
@@ -48,6 +48,8 @@ OSX YosemiteだとMac標準のSpotlightでも似たようなことができま�
  [2]: http://buy.alfredapp.com/ "powerpack"
  [3]: https://kapeli.com/dash "dash"
  [4]: http://sites.fastspring.com/kapeli/instant/dash "dash有料版"
+
+
 
 
 
