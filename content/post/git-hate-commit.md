@@ -2,7 +2,7 @@
 date: "2015-07-09T16:12:23+09:00"
 title: "git-hate-commit"
 eyecatch: "git-logo.png"
-tags: ["git", "programming"]
+tags: ["git", "programming", "tools"]
 comments: true
 ---
 

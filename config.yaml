@@ -1,6 +1,6 @@
-BaseUrl: "http://besuto.me"
-LanguageCode: "ja"
-Title: "シババルーン"
+baseurl: "http://besuto.me"
+languageCode: "ja"
+title: "シババルーン"
 
 Params:
   Author: "バルーンボーイ"

@@ -2,6 +2,7 @@
 date: 2015-07-12T22:40:40+09:00
 draft: false
 title: unique idea
+tags: ["opinion", "idea"]
 eyecatch: "hopesoap.png"
 ---
 

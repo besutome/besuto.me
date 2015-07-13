@@ -1,8 +1,9 @@
 ---
-date: 2015-07-12T22:34:56+09:00
+date: 2015-07-12T23:34:56+09:00
 draft: false
 title: alfred
 eyecatch: "alfred-logo.png"
+tags: ["alfred", "tools"]
 tags: ["git", "programming"]
 ---
 
