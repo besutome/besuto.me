@@ -4,7 +4,6 @@ draft: false
 title: alfred
 eyecatch: "alfred-logo.png"
 tags: ["alfred", "tools"]
-tags: ["git", "programming"]
 ---
 
 プログラミングの効率をあげるには、キーボードから一時も手を離さず、マウスを使わない運用をすることが定説？なので、それを目指してる自分の環境を晒してみる。今回はalferdに関して。  
@@ -49,6 +48,8 @@ OSX YosemiteだとMac標準のSpotlightでも似たようなことができま�
  [2]: http://buy.alfredapp.com/ "powerpack"
  [3]: https://kapeli.com/dash "dash"
  [4]: http://sites.fastspring.com/kapeli/instant/dash "dash有料版"
+
+
 
 
 
