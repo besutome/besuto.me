@@ -3,7 +3,7 @@ comments: true
 date: 2015-07-15T14:14:01+09:00
 draft: true
 eyecatch: volt.png
-tags: ["programming, "ruby", "volt"]
+tags: ["programming", "ruby", "volt"]
 title: フロントもサーバーもrubyで完結するフレームワークのvoltを触ってみた
 ---
 
