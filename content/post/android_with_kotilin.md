@@ -2,7 +2,7 @@
 comments: true
 date: 2015-07-16T16:03:39+09:00
 draft: false
-eyecatch: kotlin-logo.png
+eyecatch: Kotlin-logo.png
 tags: ['kotlin', 'android', 'programming']
 title: アンドロイドの次なる開発言語は？
 ---

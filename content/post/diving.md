@@ -68,6 +68,15 @@ title: 夏が来たので、ダイビングの話をする
 マスク、シュノーケル、フィンの3点セットですね。  
 借りると安くても1日3000円くらいするんですが、amazonだとセットで2500円とかで買えるので、買ったほうがいいです。
 
+おすすめはこれ。  
+一応サイズがあるので注意。  
+
+<a href="http://www.amazon.co.jp/gp/product/B007R00VRS/ref=as_li_ss_il?ie=UTF8&camp=247&creative=7399&creativeASIN=B007R00VRS&linkCode=as2&tag=besutome01-22"><img border="0" src="http://ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B007R00VRS&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=besutome01-22" ></a><img src="http://ir-jp.amazon-adsystem.com/e/ir?t=besutome01-22&l=as2&o=9&a=B007R00VRS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  
+<a href="http://www.amazon.co.jp/gp/product/B007R00VRS/ref=as_li_ss_tl?ie=UTF8&camp=247&creative=7399&creativeASIN=B007R00VRS&linkCode=as2&tag=besutome01-22">リーフツアラー(ReefTourer) マスク・シュノーケル・フィン3点セット RP-3002 ブラック Lサイズ</a><img src="http://ir-jp.amazon-adsystem.com/e/ir?t=besutome01-22&l=as2&o=9&a=B007R00VRS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+他のものはこっちから。  
+<a target="_blank" href="http://www.amazon.co.jp/s/ref=as_li_ss_tl?_encoding=UTF8&camp=247&creative=7399&fst=as%3Aoff&keywords=%E3%82%B7%E3%83%A5%E3%83%8E%E3%83%BC%E3%82%B1%E3%83%AB%203%E7%82%B9%E3%82%BB%E3%83%83%E3%83%88&linkCode=ur2&qid=1437057303&rh=n%3A2201325051%2Ck%3A%E3%82%B7%E3%83%A5%E3%83%8E%E3%83%BC%E3%82%B1%E3%83%AB%203%E7%82%B9%E3%82%BB%E3%83%83%E3%83%88&rnid=2321267051&tag=besutome01-22">シュノーケルセット</a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=besutome01-22&l=ur2&o=9" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
 目が悪くてコンタクトしたくない人は、値ははりますがレンズ付きのマスクを買うのをおすすめします。1万くらい出せば買えます。  
 度付きのマスクを貸してくれないとこもあるので、コンタクト嫌いの人は買っとくべきです。
 
@@ -83,6 +92,16 @@ goproとかに代表されるあれですね。
 ダイビング対応のハウジング（水深40m対応）が標準装備で、潜るときに頭とかにつけとけば水中で何も気を使わずにいい感じの動画がとれます。  
 
 手軽に水中動画をとるならこれが一番オススメ。普段見れない水中の動画って結構面白いのでオススメです。
+
+中でもgoproがオススメです。   
+マウント（カメラを取り付ける機材）が多種多様なので、邪魔にならないところに取り付けやすいです。
+
+<a href="http://www.amazon.co.jp/gp/product/B00J8DI2FA/ref=as_li_ss_il?ie=UTF8&camp=247&creative=7399&creativeASIN=B00J8DI2FA&linkCode=as2&tag=besutome01-22"><img border="0" src="http://ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00J8DI2FA&Format=_SL160_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=besutome01-22" ></a><img src="http://ir-jp.amazon-adsystem.com/e/ir?t=besutome01-22&l=as2&o=9&a=B00J8DI2FA" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />  
+<a href="http://www.amazon.co.jp/gp/product/B00J8DI2FA/ref=as_li_ss_tl?ie=UTF8&camp=247&creative=7399&creativeASIN=B00J8DI2FA&linkCode=as2&tag=besutome01-22">【国内正規品】 GoPro ウェアラブルカメラ HERO3 ホワイトエディション(40m防水ハウジンク゛Ver.) CHDHE-301-JP2</a><img src="http://ir-jp.amazon-adsystem.com/e/ir?t=besutome01-22&l=as2&o=9&a=B00J8DI2FA" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+
+一覧はこちら。  
+<a target="_blank" href="http://www.amazon.co.jp/s/ref=as_li_ss_tl?_encoding=UTF8&camp=247&creative=7399&field-keywords=gopro&linkCode=ur2&rh=i%3Aaps%2Ck%3Agopro&tag=besutome01-22&url=search-alias%3Daps">GoPro</a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=besutome01-22&l=ur2&o=9" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 ## 最後に
 
