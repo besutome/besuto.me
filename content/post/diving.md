@@ -2,7 +2,7 @@
 comments: true
 date: 2015-07-15T01:56:14+09:00
 draft: false
-eyecatch: diving.png
+eyecatch: diving.jpg
 tags: ["diving", "activity"]
 title: 夏が来たので、ダイビングの話をする
 ---
