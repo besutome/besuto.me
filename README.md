@@ -1,7 +1,35 @@
 # [besuto.me](http://besuto.me)
 
-my blog
+### 手順
 
-------------------
-+ go
-+ hugo
+```sh
+$ npm run post -- newPost.md
+$ md post/newPost.md
+$ npm test
+$ npm start
+```
+
+下書きの場合
+
+```sh
+$ npm run server -- -D
+```
+
+オートリロード
+
+```sh
+$ npm test
+```
+
+http://localhost:1313
+
+
+
+
+
+### 画像の配置場所
+
+`/public/images`
+
+
+

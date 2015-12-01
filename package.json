@@ -1,0 +1,22 @@
+{
+  "name": "besuto.me",
+  "version": "1.0.0",
+  "main": "public",
+  "scripts": {
+    "post": "hugo new content/post/",
+    "server": "hugo server -t aglaus",
+    "make": "hugo -t aglaus",
+    "deploy": "s3cmd put --recursive public/ s3://besuto.me",
+    "test": "npm run server -w",
+    "start": "npm run make && npm run deploy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/besutome/besuto.me.git"
+  },
+  "author": "besutome",
+  "bugs": {
+    "url": "https://github.com/besutome/besuto.me/issues"
+  },
+  "homepage": "http://besuto.me"
+}

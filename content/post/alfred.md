@@ -56,3 +56,4 @@ OSX YosemiteだとMac標準のSpotlightでも似たようなことができま�
 
 
 
+
