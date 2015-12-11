@@ -3,7 +3,7 @@
 ### 手順
 
 ```sh
-$ npm run post -- newPost.md
+$ hugo new post/newPost.md
 $ md post/newPost.md
 $ npm test
 $ npm start
@@ -27,9 +27,12 @@ http://localhost:1313
 
 
 
+
 ### 画像の配置場所
 
 `/public/images`
+
+
 
 
 

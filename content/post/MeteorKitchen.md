@@ -218,4 +218,5 @@ Meteor Kitchenのコードが非公開なのが気になりますが、今後�
 ---
 
 初日は[@besutome](https://twitter.com/besutome)でした。  
-明日は、[n-oshiroさん](http://qiita.com/n-oshiro)で、「meteorのdeployコマンドについて(仮)」です。
+明日は、[n-oshiroさん](http://qiita.com/n-oshiro)で、[無料ホスティング環境 meteor.com 関連コマンドを見てみる](http://qiita.com/n-oshiro/items/77d3d8fae44c2718d311)です。
+
